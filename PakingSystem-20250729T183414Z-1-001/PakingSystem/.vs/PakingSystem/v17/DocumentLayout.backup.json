@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSE479_IoT\\PakingSystem-20250729T183414Z-1-001\\PakingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1887920F-9233-4238-8A4C-1F94763CB593}|PakingSystem\\PakingSystem.csproj|d:\\cse479_iot\\pakingsystem-20250729t183414z-1-001\\pakingsystem\\pakingsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1887920F-9233-4238-8A4C-1F94763CB593}|PakingSystem\\PakingSystem.csproj|solutionrelative:pakingsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1887920F-9233-4238-8A4C-1F94763CB593}|PakingSystem\\PakingSystem.csproj|D:\\CSE479_IoT\\PakingSystem-20250729T183414Z-1-001\\PakingSystem\\pakingsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1887920F-9233-4238-8A4C-1F94763CB593}|PakingSystem\\PakingSystem.csproj|solutionrelative:pakingsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PakingSystem||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1887920F-9233-4238-8A4C-1F94763CB593}|PakingSystem\\PakingSystem.csproj|D:\\CSE479_IoT\\PakingSystem-20250729T183414Z-1-001\\PakingSystem\\pakingsystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1887920F-9233-4238-8A4C-1F94763CB593}|PakingSystem\\PakingSystem.csproj|solutionrelative:pakingsystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1887920F-9233-4238-8A4C-1F94763CB593}|PakingSystem\\PakingSystem.csproj|D:\\CSE479_IoT\\PakingSystem-20250729T183414Z-1-001\\PakingSystem\\pakingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1887920F-9233-4238-8A4C-1F94763CB593}|PakingSystem\\PakingSystem.csproj|solutionrelative:pakingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\CSE479_IoT\\PakingSystem-20250729T183414Z-1-001\\PakingSystem\\PakingSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "PakingSystem\\Form1.cs",
+              "ToolTip": "D:\\CSE479_IoT\\PakingSystem-20250729T183414Z-1-001\\PakingSystem\\PakingSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "PakingSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T06:35:15.591Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CSE479_IoT\\PakingSystem-20250729T183414Z-1-001\\PakingSystem\\PakingSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "PakingSystem\\Form1.cs",
+              "ToolTip": "D:\\CSE479_IoT\\PakingSystem-20250729T183414Z-1-001\\PakingSystem\\PakingSystem\\Form1.cs",
+              "RelativeToolTip": "PakingSystem\\Form1.cs",
+              "ViewState": "AgIAAOsBAAAAAAAAAAAUwPgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T06:36:26.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PakingSystem",
+              "DocumentMoniker": "D:\\CSE479_IoT\\PakingSystem-20250729T183414Z-1-001\\PakingSystem\\PakingSystem\\PakingSystem.csproj",
+              "RelativeDocumentMoniker": "PakingSystem\\PakingSystem.csproj",
+              "ToolTip": "D:\\CSE479_IoT\\PakingSystem-20250729T183414Z-1-001\\PakingSystem\\PakingSystem\\PakingSystem.csproj",
+              "RelativeToolTip": "PakingSystem\\PakingSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-01T08:27:42.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\CSE479_IoT\\PakingSystem-20250729T183414Z-1-001\\PakingSystem\\PakingSystem\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PakingSystem\\Form1.Designer.cs",
+              "ToolTip": "D:\\CSE479_IoT\\PakingSystem-20250729T183414Z-1-001\\PakingSystem\\PakingSystem\\Form1.Designer.cs",
+              "RelativeToolTip": "PakingSystem\\Form1.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwN8BAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T05:27:37.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSE479_IoT\\PakingSystem-20250729T183414Z-1-001\\PakingSystem\\PakingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "PakingSystem\\Program.cs",
+              "ToolTip": "D:\\CSE479_IoT\\PakingSystem-20250729T183414Z-1-001\\PakingSystem\\PakingSystem\\Program.cs",
+              "RelativeToolTip": "PakingSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T06:37:36.586Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
